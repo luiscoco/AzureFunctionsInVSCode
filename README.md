@@ -26,6 +26,8 @@ Select the "Http Trigger" for the Azure Function template:
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/83de5f25-81d9-4215-88d9-fff70d3bef78)
 
+Provide the Azure Function name:
+
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/952e4cf8-881f-4610-9d7e-824eeb3102ae)
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/3e384db5-6c36-473c-89e6-2babe27f00cf)
