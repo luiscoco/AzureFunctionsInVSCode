@@ -36,8 +36,6 @@ Provide the namespace for the Azure Function:
 
 Select the access rights (Function):
 
-![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/3e31bbed-83f5-4c4a-b322-299882a839f9)
-
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/79b9114f-a418-4de7-835e-1e3e483e2a84)
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/5d827390-bacb-4415-a2a0-bd809268376c)
