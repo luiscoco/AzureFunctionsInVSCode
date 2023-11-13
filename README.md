@@ -22,7 +22,7 @@ Select the .NET 7 as Framework:
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/8373193e-e33f-4604-a414-be88cd2873c9)
 
-
+Select the "Http Trigger" for the Azure Function template:
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/83de5f25-81d9-4215-88d9-fff70d3bef78)
 
