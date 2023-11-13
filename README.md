@@ -8,3 +8,6 @@ Press the "Azure" button in the left toolbar:
 
 Press the "Azure Functions" button to create a new "Function" in VSCode:
 
+![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/2e161f1c-1634-48a2-bd73-7dc00c3d3dd2)
+
+
