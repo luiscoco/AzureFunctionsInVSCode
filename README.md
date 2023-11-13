@@ -1,5 +1,11 @@
 # AzureFunctions Create Function In VSCode
 
+Install the VSCode extensions for "Azure" and for "Azure Functions":
+
+![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/37d53163-c220-4a66-97cb-6f5008f23a14)
+
+![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/26903ecf-fa5c-46e2-b0f6-11403d3147a3)
+
 Press the "Azure" button in the left toolbar:
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/27162851-9437-484b-af30-09258d8f877e)
