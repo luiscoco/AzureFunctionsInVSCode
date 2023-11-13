@@ -44,9 +44,11 @@ We can see the Function C# source code in the "HttpTrigger1.cs" and "Program.cs"
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/09daecca-66c4-45b5-8571-8f3eb828ca28)
 
-After pressing the option "Run Without Debugging" we can see the 
+After pressing the option "Run Without Debugging" we can see the URL: "http://localhost:7071/api/HttpTrigger1"
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/14fbca6d-0ed0-425f-8d77-6ec3fe2622d5)
+
+When you enter in the URL: "http://localhost:7071/api/HttpTrigger1"
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/7c55b474-ee5d-4fb5-997d-4f06178ea220)
 
