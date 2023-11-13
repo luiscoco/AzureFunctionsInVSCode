@@ -14,9 +14,15 @@ Select the folder that will contain the Azure Function project:
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/77614227-9963-48ac-a75a-6e3f56785f52)
 
+Select the C# language for writing the Azure Function source code:
+
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/4a99f68e-c32e-4423-a48c-5471fdfde022)
 
+Select the .NET 7 as Framework:
+
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/8373193e-e33f-4604-a414-be88cd2873c9)
+
+
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/83de5f25-81d9-4215-88d9-fff70d3bef78)
 
