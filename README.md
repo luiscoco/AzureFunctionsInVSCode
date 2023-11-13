@@ -30,6 +30,7 @@ Press the "Azure Functions" button to create a new "Function" in VSCode:
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/09daecca-66c4-45b5-8571-8f3eb828ca28)
 
+![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/14fbca6d-0ed0-425f-8d77-6ec3fe2622d5)
 
 
 
