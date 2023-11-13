@@ -58,6 +58,11 @@ When you enter in the URL: "http://localhost:7071/api/HttpTrigger1"
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/7c55b474-ee5d-4fb5-997d-4f06178ea220)
 
+## Azure Functions Triggers
+
+These are the trigger for the Azure Functions:
+
+![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/f06bcf0b-8354-4e87-afac-64e522d77337)
 
 
 
