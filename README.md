@@ -64,7 +64,27 @@ These are the trigger for the Azure Functions:
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/f06bcf0b-8354-4e87-afac-64e522d77337)
 
+Azure Functions supports various triggers that can initiate the execution of your serverless functions. 
 
+Here's a brief explanation for some of the common triggers:
+
+**HTTP Trigger**: This trigger allows your function to be invoked via HTTP requests. It's great for building RESTful APIs or handling webhooks.
+
+**Timer Trigger**: With this trigger, your function runs on a predefined schedule, like a cron job. Useful for tasks that need to be executed at regular intervals.
+
+**Blob Trigger**: This trigger responds to changes in Azure Storage blobs. It can be used to process or react to new or modified blobs in your storage account.
+
+**Queue Trigger**: This trigger processes messages from Azure Storage Queues. When a new message arrives, the function is invoked to handle the message.
+
+**Event Hub Trigger**: It responds to events from Azure Event Hubs, which is a scalable data streaming platform. Useful for processing large volumes of data in real-time.
+
+**Service Bus Queue/Topic Trigger**: Similar to Queue Trigger, it processes messages from Azure Service Bus Queues or Topics, providing reliable message delivery.
+
+**Cosmos DB Trigger**: This trigger monitors changes to documents within a Cosmos DB collection. When a document is inserted or modified, the function is triggered.
+
+**Event Grid Trigger**: It responds to events from Azure Event Grid, a fully managed event routing service. This allows you to react to events from various Azure services or custom sources.
+
+These triggers enable you to build event-driven, scalable, and efficient serverless applications on Azure. Depending on your use case, you can choose the appropriate trigger for your Azure Function.
 
 
 
