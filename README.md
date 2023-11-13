@@ -38,9 +38,13 @@ Select the access rights (Function):
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/79b9114f-a418-4de7-835e-1e3e483e2a84)
 
+We can see the Function C# source code in the "HttpTrigger1.cs" and "Program.cs" files:
+
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/5d827390-bacb-4415-a2a0-bd809268376c)
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/09daecca-66c4-45b5-8571-8f3eb828ca28)
+
+After pressing the option "Run Without Debugging" we can see the 
 
 ![image](https://github.com/luiscoco/AzureFunctions_CreateFunctionInVSCode/assets/32194879/14fbca6d-0ed0-425f-8d77-6ec3fe2622d5)
 
